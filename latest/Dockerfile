@@ -107,4 +107,6 @@ STOPSIGNAL SIGRTMIN+3
 # 8447 - autoinstaller
 EXPOSE 21 80 443 8880 8443 8447
 
+VOLUME /var
+
 # vim: ts=4 sts=4 sw=4 et :
